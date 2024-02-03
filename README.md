@@ -1,4 +1,5 @@
 # Celestial-Body-Simulation [Work in Progress]
+![image](https://github.com/itismarcii/Celestial-Body-Simulation/assets/58007324/a96ebc4c-466d-41b6-9c92-48990478a3df)
 
 ## Project Overview
 
@@ -30,4 +31,3 @@ Celestial-Body-Simulation is an evolving Unity project designed to demonstrate t
 
 - **Randomization**: Due to the current randomization, it's advisable to select different seeds or tweak parameters to prevent the simulation from "nuking" all celestial objects. Some scenarios may lead to planets having no rotation or being too close together, resulting in gravitational forces causing a cascade effect. Adjust parameters accordingly to avoid unintended outcomes.
 
-![image](https://github.com/itismarcii/Celestial-Body-Simulation/assets/58007324/a96ebc4c-466d-41b6-9c92-48990478a3df)
